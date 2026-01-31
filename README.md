@@ -1,4 +1,4 @@
-<img width="2160" height="1440" alt="Screenshot 2026-01-31 093245" src="https://github.com/user-attachments/assets/cf14e3fc-191a-4b5c-9f09-708c8bea4e8e" /><img width="2160" height="1440" alt="Screenshot 2026-01-31 093245" src="https://github.com/user-attachments/assets/44d41538-3d32-4947-ad9f-32b498dfb11b" /># 🚀 RevPay - Digital Banking System
+# 🚀 RevPay - Digital Banking System
 RevPay is a console-based banking application built with Java. It simulates a core financial platform allowing users to send money, pay invoices, request funds, and manage their digital wallets securely.
 # 🛠 Tech Stack
 Language: Java 7
